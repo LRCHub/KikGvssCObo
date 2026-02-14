@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あはれなるは青キ赤",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:05:08.217443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あはれなるは青キ赤 (feat. 霜月はるか)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_あはれなるは青キ赤_(feat._霜月はるか)_未来古代楽団.txt"
+    }
+  ]
+}
